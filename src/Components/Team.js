@@ -34,8 +34,8 @@ const Team = () => {
         {/* <p className="primary-subheading" >Team</p> */}
         <h1 className="primary-heading" id="team">Meet the Team</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        Our dynamic development team is a blend of talented individuals specializing in front-end and backend technologies.From inception to deployment, we're committed to delivering high-quality 
+        solutions that leave a lasting impact on users.
         </p>
       </div>
       <div className="work-section-bottom">

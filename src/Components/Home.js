@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar';
-import picture from '../Assets/pic2.png';
+import picture from '../Assets/homepic.png';
 import {FiArrowRight} from 'react-icons/fi';
 
 const Home = () => {
