@@ -199,12 +199,13 @@ nav {
   padding: 0.5rem 1rem;
 }
 .footer-wrapper {
-  margin: 6rem 0rem;
-  display: flex;
   margin-top: 10rem;
+  background-color: darkgray;
+  margin-left: -90px;
+  margin-right: -90px;
 }
 .footer-logo-container {
-  max-width: 150px;
+  max-width: 250px;
 }
 .footer-icons {
   margin-top: 2.5rem;
