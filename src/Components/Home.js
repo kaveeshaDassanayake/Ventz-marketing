@@ -18,10 +18,10 @@ const Home = () => {
             {/* <button className='secondary-button'>
                 Download now <FiArrowRight />{""}
             </button> */}
-            <a href='https://expo.dev/artifacts/eas/icmkPP8Zai5TwWqjaYCi7R.apk' className='secondary-button'>
+            <a href='https://expo.dev/artifacts/eas/bEBp9VVLFbKbiXcrXYBGr8.apk' className='secondary-button'>
                 Download now <FiArrowRight />{""}
             </a>
-            <a href='' className='secondary-button-two'>
+            <a href='https://play.google.com/apps/test/com.wulfri.ventz/1' className='secondary-button-two'>
                 Tester App <FiArrowRight />{""}
             </a>
             {/* <button className='secondary-button-two'>
