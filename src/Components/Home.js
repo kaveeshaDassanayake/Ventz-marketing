@@ -18,6 +18,9 @@ const Home = () => {
             <button className='secondary-button'>
                 Download now <FiArrowRight />{" "}
             </button>
+            <button className='secondary-button-two'>
+                Download Tester App <FiArrowRight />{" "}
+            </button>
         </div>
         <div className='home-image-section'>
             <img src={picture} alt='pic2'/>

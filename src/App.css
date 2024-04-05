@@ -105,7 +105,25 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 400px;
 }
+.secondary-button-two {
+  padding: 1rem 2.5rem;
+  background-color:navy;
+  outline: none;
+  border: none;
+  border-radius: 5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: white;
+  transition: 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  width: 400px;
+} 
 .secondary-button svg {
   margin-left: 0.75rem;
   font-size: 1.5rem;
