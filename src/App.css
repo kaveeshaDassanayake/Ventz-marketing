@@ -105,11 +105,11 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 400px;
+  width: 300px;
 }
 .secondary-button-two {
   padding: 1rem 2.5rem;
-  background-color:navy;
+  background-color:goldenrod;
   outline: none;
   border: none;
   border-radius: 5rem;
@@ -122,7 +122,7 @@ nav {
   align-items: center;
   justify-content: center;
   margin-top: 15px;
-  width: 400px;
+  width: 300px;
 } 
 .secondary-button svg {
   margin-left: 0.75rem;
@@ -130,6 +130,9 @@ nav {
 }
 .secondary-button:hover {
   background-color:rgb(52, 52, 161);
+}
+.secondary-button-two:hover {
+  background-color:rgb(215, 218, 72);
 }
 .about-section-container {
   margin-top: 20rem;
