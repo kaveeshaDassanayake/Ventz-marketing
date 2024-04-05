@@ -15,12 +15,18 @@ const Home = () => {
             <p className='primary-text' style={{lineHeight:1.6}}>
               Welcome to Ventz, your go-to platform for discovering and participating in a diverse array of events and activities! At Ventz, we're dedicated to simplifying event exploration and attendance while catering to the ever-evolving needs of both organizers and attendees.
             </p>
-            <button className='secondary-button'>
-                Download now <FiArrowRight />{" "}
-            </button>
-            <button className='secondary-button-two'>
+            {/* <button className='secondary-button'>
+                Download now <FiArrowRight />{""}
+            </button> */}
+            <a href='https://expo.dev/artifacts/eas/icmkPP8Zai5TwWqjaYCi7R.apk' className='secondary-button'>
+                Download now <FiArrowRight />{""}
+            </a>
+            <a href='' className='secondary-button-two'>
+                Tester App <FiArrowRight />{""}
+            </a>
+            {/* <button className='secondary-button-two'>
                 Download Tester App <FiArrowRight />{" "}
-            </button>
+            </button> */}
         </div>
         <div className='home-image-section'>
             <img src={picture} alt='pic2'/>

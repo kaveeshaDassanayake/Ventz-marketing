@@ -106,6 +106,7 @@ nav {
   align-items: center;
   justify-content: center;
   width: 300px;
+  text-decoration: none;
 }
 .secondary-button-two {
   padding: 1rem 2.5rem;
@@ -123,6 +124,7 @@ nav {
   justify-content: center;
   margin-top: 15px;
   width: 300px;
+  text-decoration: none;
 } 
 .secondary-button svg {
   margin-left: 0.75rem;
